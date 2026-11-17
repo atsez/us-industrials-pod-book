@@ -1,0 +1,18 @@
+# All fetched data stays local. Yahoo data must never be committed.
+data/
+
+# Private interview notes
+INTERVIEW_DEFENCE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+build/
+dist/
+
+# macOS
+.DS_Store
