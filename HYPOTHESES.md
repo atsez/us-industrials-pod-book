@@ -153,6 +153,7 @@ Defined here, before any free-data result, so adding it later is not a response 
 * The screen is re-run with revisions as a sixth factor at equal weight. The five-factor result stays the headline.
 * The same in-sample and out-of-sample periods apply. The extension's out-of-sample run is also done once, with its own lock record.
 * Bloomberg prices for delisted names are used to re-run the survivorship check, reported separately.
+* Industry classification. The screen is re-run on a universe defined by Bloomberg GICS industries (Aerospace & Defense, Electrical Equipment, Industrial Conglomerates, Machinery), with the same market cap rule, as a check that the result does not depend on using SIC codes. Building products names such as Carrier, Johnson Controls, Trane and Lennox fall outside those four GICS industries; the check is reported both without them and with GICS Building Products added. GICS also replaces SIC sub-sectors for the 40 coverage names when sizing the sector-neutral book.
 * No Bloomberg data is committed to the repo.
 
 ## Change log
@@ -160,3 +161,4 @@ Defined here, before any free-data result, so adding it later is not a response 
 | Date | Change | Reason |
 |---|---|---|
 | 2026-11-17 | Signed off | Universe and data checks complete; no results seen |
+| 2026-11-17 | Added the GICS universe check to section 7 | Planned before any result, so the classification choice cannot be tuned after seeing them |

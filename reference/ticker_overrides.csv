@@ -1,0 +1,39 @@
+cik,ticker,valid_from,valid_to,note
+0001047122,RTN,,,"RAYTHEON CO/; old ticker, checked by date overlap"
+0001137411,COL,,,"ROCKWELL COLLINS INC; old ticker, checked by date overlap"
+0000042542,GR,,,"GOODRICH CORP; old ticker, checked by date overlap"
+0000801898,JOY,,,"JOY GLOBAL INC; old ticker, checked by date overlap"
+0001364885,SPR,,,"Spirit AeroSystems Holdings, Inc.; old ticker, checked by date overlap"
+0000075829,PLL,,,"PALL CORP; old ticker, checked by date overlap"
+0000354908,FLIR,,,"Teledyne FLIR, LLC; old ticker, checked by date overlap"
+0000861361,BEAV,,,"B/E AEROSPACE INC; old ticker, checked by date overlap"
+0001723089,CHX,,,"ChampionX Corp; old ticker, checked by date overlap"
+0001604643,AQUA,,,"Evoqua Water Technologies Corp.; old ticker, checked by date overlap"
+0000740761,BUCY,,,"BUCYRUS INTERNATIONAL INC; old ticker, checked by date overlap"
+0001316656,DRC,,,"Dresser-Rand Group Inc.; old ticker, checked by date overlap"
+0000916459,GDI,,,"GARDNER DENVER INC; old ticker, checked by date overlap"
+0001374535,AIMC,,,"Altra Industrial Motion Corp.; old ticker, checked by date overlap"
+0001021162,TGI,,,"TRIUMPH GROUP INC; old ticker, checked by date overlap"
+0001650962,WBT,,,"Welbilt, Inc.; old ticker, checked by date overlap"
+0000914024,SHAW,,,"SHAW GROUP INC; old ticker, checked by date overlap"
+0000097854,TNB,,,"THOMAS & BETTS CORP; old ticker, checked by date overlap"
+0001616318,VSTO,,,"Vista Outdoor Inc.; old ticker, checked by date overlap"
+0001641991,FLOW,,,"SPX FLOW, Inc.; old ticker, checked by date overlap"
+0000060849,LUFK,,,"LUFKIN INDUSTRIES INC; old ticker, checked by date overlap"
+0001617898,KLXI,,,"KLX Inc.; old ticker, checked by date overlap"
+0000054381,KAMN,,,"KAMAN Corp; old ticker, checked by date overlap"
+0000084290,RBN,,,"ROBBINS & MYERS, INC.; old ticker, checked by date overlap"
+0001455684,TPIC,,,"TPI COMPOSITES, INC; old ticker, checked by date overlap"
+0001091883,CIR,,,"CIRCOR INTERNATIONAL INC; old ticker, checked by date overlap"
+0000743238,SHYF,,,"SHYFT GROUP, INC.; old ticker, checked by date overlap"
+0000740694,KDN,,,"KAYDON CORP; old ticker, checked by date overlap"
+0001745317,VLDR,,,"Velodyne Lidar, Inc.; old ticker, checked by date overlap"
+0001019361,RSTI,,,"ROFIN SINAR TECHNOLOGIES INC; old ticker, checked by date overlap"
+0000014195,BGG,,,"BRIGGS & STRATTON CORP; old ticker, checked by date overlap"
+0000031277,ETN,,2012-11-30,EATON CORP (pre-Cooper merger); ETN passes to Eaton plc 2012-12; checked by date overlap
+0001487730,SPB,,2018-07-13,Spectrum Brands Legacy; SPB passes to Spectrum Brands Holdings 2018-07; checked by date overlap
+0000009984,B,,2025-01-27,BARNES GROUP; acquired January 2025; checked by date overlap
+0000866121,ATK,,2015-02-09,Alliant Techsystems until the Orbital merger; checked by date overlap
+0000866121,OA,2015-02-10,2018-08-31,Orbital ATK until Northrop Grumman bought it; checked by date overlap
+0000040888,GY,,2015-04-26,GenCorp before the rename; checked by date overlap
+0000040888,AJRD,2015-04-27,2023-08-31,Aerojet Rocketdyne until L3Harris bought it; checked by date overlap

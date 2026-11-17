@@ -1,0 +1,12 @@
+ticker,action,reason
+HWM,add,Aerospace engine parts; SIC 3350 (aluminium) puts it outside the rules
+MMM,add,Industrial conglomerate; SIC 3841 (medical instruments) puts it outside the rules
+ROK,add,Factory automation; SIC 3829 (measuring devices) is mostly non-industrial names
+AME,add,Electrical instruments and motors; SIC 3823 also holds Danaher and Keysight
+FTV,add,Industrial instruments; SIC 3823 also holds Danaher and Keysight
+PCAR,add,Truck maker; SIC 3711 is mostly car makers
+OSK,add,Specialty and defence vehicles; SIC 3711 is mostly car makers
+HUBB,add,Electrical products; SIC 3670 is mostly electronics
+VRT,add,Data centre power and cooling; SIC 3679 is mostly electronics
+GRMN,exclude,Consumer electronics; SIC 3812 brings it in with defence electronics
+ZBRA,exclude,Barcode and tracking hardware; a technology business under SIC 3560
